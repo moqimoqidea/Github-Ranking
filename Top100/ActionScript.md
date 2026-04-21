@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7944 | 593 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2026-04-12T13:10:04Z |
+| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7943 | 593 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2026-04-12T13:10:04Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7320 | 111 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 3044 | 814 | ActionScript | 78 | The Cross Platform Game Engine | 2026-02-22T21:30:04Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2508 | 1108 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
@@ -21,7 +21,7 @@
 | 14 | [flashls](https://github.com/mangui/flashls) | 745 | 260 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
 | 15 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | 710 | 50 | ActionScript | 31 | 一只蟑螂桌面“宠物” Cockroach Desktop "Pet" | 2019-09-24T09:47:41Z |
 | 16 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 678 | 129 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
-| 17 | [emulator](https://github.com/nesbox/emulator) | 647 | 259 | ActionScript | 90 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
+| 17 | [emulator](https://github.com/nesbox/emulator) | 648 | 259 | ActionScript | 90 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 18 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 642 | 268 | ActionScript | 100 | Away3D engine for Flash Player 11 | 2024-06-03T14:06:14Z |
 | 19 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 595 | 70 | ActionScript | 50 | A simple music making program | 2024-07-11T20:05:39Z |
 | 20 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 554 | 222 | ActionScript | 65 | Modern AS3 Game Engine | 2026-03-06T06:53:50Z |
@@ -34,9 +34,9 @@
 | 27 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 385 | 36 | ActionScript | 1 | Anodyne 1 Source Code | 2024-06-04T22:57:49Z |
 | 28 | [flump](https://github.com/tconkling/flump) | 385 | 71 | ActionScript | 34 | Exports Flash .FLAs to GPU-friendly formats | 2020-01-27T18:53:00Z |
 | 29 | [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) | 382 | 126 | ActionScript | 9 | Alternativa3D Flash GPU accelerated 3D engine | 2024-05-03T15:09:55Z |
-| 30 | [royale-asjs](https://github.com/apache/royale-asjs) | 379 | 119 | ActionScript | 248 | Apache Royale ASJS | 2026-04-19T09:59:18Z |
+| 30 | [royale-asjs](https://github.com/apache/royale-asjs) | 379 | 119 | ActionScript | 248 | Apache Royale ASJS | 2026-04-20T04:46:44Z |
 | 31 | [Weave](https://github.com/WeaveTeam/Weave) | 368 | 68 | ActionScript | 0 | Weave (Web-based Analysis and Visualization Environment) | 2019-01-06T02:11:59Z |
-| 32 | [flex-sdk](https://github.com/apache/flex-sdk) | 366 | 147 | ActionScript | 0 | Mirror of Apache Flex SDK | 2024-03-04T21:47:43Z |
+| 32 | [flex-sdk](https://github.com/apache/flex-sdk) | 364 | 147 | ActionScript | 0 | Mirror of Apache Flex SDK | 2024-03-04T21:47:43Z |
 | 33 | [AS3Libs](https://github.com/gskinner/AS3Libs) | 356 | 42 | ActionScript | 0 | A collection of AS3 libraries and sketches that I have built over the years. | 2021-08-25T12:08:46Z |
 | 34 | [wck](https://github.com/jesses/wck) | 356 | 54 | ActionScript | 12 | Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine) | 2015-09-01T06:23:50Z |
 | 35 | [Gestouch](https://github.com/fljot/Gestouch) | 356 | 84 | ActionScript | 36 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
@@ -64,7 +64,7 @@
 | 57 | [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) | 241 | 106 | ActionScript | 33 | Simple flash file for recording audio and saving as a WAV | 2016-10-25T15:21:38Z |
 | 58 | [Papervision3D](https://github.com/Papervision3D/Papervision3D) | 238 | 54 | ActionScript | 4 | A Real-Time 3D Engine for Flash Player 10 | 2009-11-17T02:21:30Z |
 | 59 | [swiz-framework](https://github.com/swiz/swiz-framework) | 225 | 41 | ActionScript | 14 | Swiz framework for AS3 and Flex | 2013-06-19T04:19:12Z |
-| 60 | [avmplus](https://github.com/adobe/avmplus) | 224 | 78 | ActionScript | 6 | Source code for the Actionscript virtual machine | 2019-10-02T23:38:19Z |
+| 60 | [avmplus](https://github.com/adobe/avmplus) | 223 | 78 | ActionScript | 6 | Source code for the Actionscript virtual machine | 2019-10-02T23:38:19Z |
 | 61 | [ovmeet](https://github.com/ccallcn/ovmeet) | 219 | 111 | ActionScript | 1 | SIP视频对讲、MCU融屏、指挥调度 、网页视频会议、视频会议、H5视频直播、SIP广播会议、融合通信、WebRtc、RTMP、SIP、RTSP、白板、视频录制、视频通话、旁路直播、AR眼镜、执法记录仪、AR专家系统、AR远程协助、AR巡检、远程医疗、视频安全帽、机顶盒 | 2026-04-20T03:26:31Z |
 | 62 | [glitch-avatars](https://github.com/tinyspeck/glitch-avatars) | 213 | 99 | ActionScript | 1 | Art and source for Glitch's customizable avatars | 2013-12-03T01:51:08Z |
 | 63 | [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) | 211 | 74 | ActionScript | 11 | Library to help Flash, Flex and ActionScript clients connect to Socket.IO servers. | 2016-09-22T20:16:49Z |
@@ -77,7 +77,7 @@
 | 70 | [grapefrukt-export](https://github.com/grapefrukt/grapefrukt-export) | 198 | 28 | ActionScript | 5 | a set of actionscript tools to export animations and graphic assets made in flash authoring to other formats. | 2013-02-27T07:29:51Z |
 | 71 | [FileReader](https://github.com/AVapps/FileReader) | 191 | 59 | ActionScript | 31 | A FileReader polyfill for Internet Explore and Safari using Flash | 2014-04-15T09:17:31Z |
 | 72 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 188 | 53 | ActionScript | 8 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2025-09-13T18:33:21Z |
-| 73 | [books](https://github.com/zengfeng/books) | 187 | 98 | ActionScript | 0 | books | 2012-11-24T11:06:49Z |
+| 73 | [books](https://github.com/zengfeng/books) | 186 | 98 | ActionScript | 0 | books | 2012-11-24T11:06:49Z |
 | 74 | [rtmp-streamer](https://github.com/chxj1992/rtmp-streamer) | 186 | 50 | ActionScript | 13 | 浏览器RTMP推流SDK (A javascript rtmp streamer library) | 2018-02-09T08:24:33Z |
 | 75 | [DesignPanel](https://github.com/DragonBones/DesignPanel) | 187 | 94 | ActionScript | 19 | DragonBones DesignPanel | 2021-04-20T11:49:36Z |
 | 76 | [fzip](https://github.com/claus/fzip) | 184 | 62 | ActionScript | 4 | FZip is an Actionscript 3 class library to load, modify and create standard ZIP archives. | 2010-11-06T00:11:41Z |
