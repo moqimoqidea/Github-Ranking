@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 155264 | 46152 | Java | 62 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 | 2026-04-25T16:01:15Z |
-| 2 | [hello-algo](https://github.com/krahets/hello-algo) | 125718 | 15085 | Java | 7 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 | 2026-04-18T18:23:33Z |
-| 3 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 107707 | 13538 | Java | 181 | :cn: GitHub中文排行榜，各语言分设「软件 \| 资料」榜单，精准定位中文好项目。各取所需，高效学习。 | 2024-10-12T06:51:36Z |
-| 4 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93953 | 27380 | Java | 139 | Design patterns implemented in Java | 2026-03-20T21:23:33Z |
-| 5 | [mall](https://github.com/macrozheng/mall) | 83503 | 29694 | Java | 10 | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 | 2026-03-06T07:30:02Z |
-| 6 | [spring-boot](https://github.com/spring-projects/spring-boot) | 80502 | 41895 | Java | 464 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. | 2026-04-27T09:52:44Z |
-| 7 | [advanced-java](https://github.com/doocs/advanced-java) | 78959 | 19235 | Java | 0 | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 | 2026-04-17T09:01:33Z |
-| 8 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 76643 | 13940 | Java | 18 | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） | 2023-08-14T12:14:01Z |
-| 9 | [elasticsearch](https://github.com/elastic/elasticsearch) | 76596 | 25862 | Java | 4581 | Free and Open Source, Distributed, RESTful Search Engine | 2026-04-28T03:45:18Z |
-| 10 | [ghidra](https://github.com/NationalSecurityAgency/ghidra) | 67757 | 7437 | Java | 1541 | Ghidra is a software reverse engineering (SRE) framework | 2026-04-27T12:12:42Z |
-| 11 | [Java](https://github.com/TheAlgorithms/Java) | 65483 | 21093 | Java | 15 | All Algorithms implemented in Java | 2026-04-27T18:42:34Z |
-| 12 | [interviews](https://github.com/kdn251/interviews) | 64946 | 12909 | Java | 34 | Everything you need to know to get the job. | 2025-05-12T12:56:04Z |
-| 13 | [spring-framework](https://github.com/spring-projects/spring-framework) | 59872 | 38841 | Java | 321 | Spring Framework | 2026-04-27T11:10:10Z |
-| 14 | [termux-app](https://github.com/termux/termux-app) | 54031 | 6456 | Java | 458 | Termux - a terminal emulator application for Android OS extendible by variety of packages. | 2026-04-06T23:11:53Z |
-| 15 | [guava](https://github.com/google/guava) | 51494 | 11144 | Java | 619 | Google core libraries for Java | 2026-04-27T18:31:31Z |
-| 16 | [dbeaver](https://github.com/dbeaver/dbeaver) | 49773 | 4146 | Java | 3208 | Free universal database tool and SQL client | 2026-04-27T19:49:09Z |
+| 1 | [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 155291 | 46153 | Java | 62 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 | 2026-04-25T16:01:15Z |
+| 2 | [hello-algo](https://github.com/krahets/hello-algo) | 125744 | 15090 | Java | 7 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 | 2026-04-18T18:23:33Z |
+| 3 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 107727 | 13537 | Java | 181 | :cn: GitHub中文排行榜，各语言分设「软件 \| 资料」榜单，精准定位中文好项目。各取所需，高效学习。 | 2024-10-12T06:51:36Z |
+| 4 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93958 | 27377 | Java | 139 | Design patterns implemented in Java | 2026-03-20T21:23:33Z |
+| 5 | [mall](https://github.com/macrozheng/mall) | 83513 | 29692 | Java | 10 | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 | 2026-03-06T07:30:02Z |
+| 6 | [spring-boot](https://github.com/spring-projects/spring-boot) | 80522 | 41899 | Java | 465 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. | 2026-04-28T14:55:55Z |
+| 7 | [advanced-java](https://github.com/doocs/advanced-java) | 78958 | 19236 | Java | 0 | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 | 2026-04-17T09:01:33Z |
+| 8 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 76645 | 13939 | Java | 18 | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） | 2023-08-14T12:14:01Z |
+| 9 | [elasticsearch](https://github.com/elastic/elasticsearch) | 76609 | 25871 | Java | 4543 | Free and Open Source, Distributed, RESTful Search Engine | 2026-04-29T03:25:11Z |
+| 10 | [ghidra](https://github.com/NationalSecurityAgency/ghidra) | 67811 | 7442 | Java | 1539 | Ghidra is a software reverse engineering (SRE) framework | 2026-04-28T10:44:49Z |
+| 11 | [Java](https://github.com/TheAlgorithms/Java) | 65491 | 21094 | Java | 15 | All Algorithms implemented in Java | 2026-04-27T18:42:34Z |
+| 12 | [interviews](https://github.com/kdn251/interviews) | 64946 | 12908 | Java | 34 | Everything you need to know to get the job. | 2025-05-12T12:56:04Z |
+| 13 | [spring-framework](https://github.com/spring-projects/spring-framework) | 59879 | 38838 | Java | 318 | Spring Framework | 2026-04-28T21:37:13Z |
+| 14 | [termux-app](https://github.com/termux/termux-app) | 54090 | 6461 | Java | 460 | Termux - a terminal emulator application for Android OS extendible by variety of packages. | 2026-04-06T23:11:53Z |
+| 15 | [guava](https://github.com/google/guava) | 51499 | 11144 | Java | 619 | Google core libraries for Java | 2026-04-28T20:36:17Z |
+| 16 | [dbeaver](https://github.com/dbeaver/dbeaver) | 49787 | 4149 | Java | 3211 | Free universal database tool and SQL client | 2026-04-28T17:32:47Z |
 | 17 | [RxJava](https://github.com/ReactiveX/RxJava) | 48289 | 7589 | Java | 21 | RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. | 2026-04-22T07:18:42Z |
-| 18 | [jadx](https://github.com/skylot/jadx) | 48273 | 5502 | Java | 414 | Dex to Java decompiler | 2026-04-27T18:36:06Z |
-| 19 | [JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 45999 | 15952 | Java | 12 | 一款 AI 驱动的低代码平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。 | 2026-04-25T09:09:49Z |
-| 20 | [dubbo](https://github.com/apache/dubbo) | 41565 | 26473 | Java | 822 | The java implementation of Apache Dubbo. An RPC and microservice framework. | 2026-04-27T07:34:12Z |
-| 21 | [halo](https://github.com/halo-dev/halo) | 38392 | 10237 | Java | 188 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 | 2026-04-27T07:05:36Z |
-| 22 | [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | 38216 | 9000 | Java | 2067 | A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations. | 2025-06-05T07:06:39Z |
-| 23 | [NewPipe](https://github.com/TeamNewPipe/NewPipe) | 37922 | 3551 | Java | 1335 | A libre lightweight streaming front-end for Android. | 2026-04-27T16:26:22Z |
-| 24 | [tutorials](https://github.com/eugenp/tutorials) | 37358 | 53609 | Java | 17 | Getting Started with Spring Boot 3:  | 2026-04-27T02:49:02Z |
-| 25 | [arthas](https://github.com/alibaba/arthas) | 37284 | 7629 | Java | 380 | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas | 2026-04-24T08:36:26Z |
-| 26 | [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 36813 | 7957 | Java | 9 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ | 2026-04-19T05:43:21Z |
-| 27 | [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 36774 | 7953 | Java | 6 | Learn System Design concepts and prepare for interviews using free resources. | 2026-02-16T18:32:29Z |
-| 28 | [hello-algorithm](https://github.com/geekxh/hello-algorithm) | 36069 | 6435 | Java | 11 | 🌍 针对小白的算法训练 \| 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站 | 2023-06-13T04:13:17Z |
-| 29 | [leetcode](https://github.com/doocs/leetcode) | 35951 | 9412 | Java | 0 | 🔥LeetCode solutions in any programming language \| 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 | 2026-04-28T00:35:20Z |
-| 30 | [lottie-android](https://github.com/airbnb/lottie-android) | 35611 | 5434 | Java | 52 | Render After Effects animations natively on Android and iOS, Web, and React Native | 2026-02-15T22:03:57Z |
-| 31 | [glide](https://github.com/bumptech/glide) | 35024 | 6177 | Java | 585 | An image loading and caching library for Android focused on smooth scrolling | 2026-04-27T14:51:18Z |
-| 32 | [netty](https://github.com/netty/netty) | 34931 | 16244 | Java | 571 | Netty project - an event-driven asynchronous network application framework | 2026-04-26T21:01:48Z |
-| 33 | [keycloak](https://github.com/keycloak/keycloak) | 34106 | 8284 | Java | 2408 | Open Source Identity and Access Management For Modern Applications and Services | 2026-04-28T02:36:21Z |
-| 34 | [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) | 34102 | 10966 | Java | 100 | 🚀一个用来深入学习并实战 Spring Boot 的项目。 | 2024-07-24T02:02:52Z |
-| 35 | [selenium](https://github.com/SeleniumHQ/selenium) | 34068 | 8676 | Java | 111 | A browser automation framework and ecosystem. | 2026-04-28T01:08:24Z |
-| 36 | [zxing](https://github.com/zxing/zxing) | 33918 | 9432 | Java | 3 | ZXing ("Zebra Crossing") barcode scanning library for Java, Android | 2026-04-20T07:05:19Z |
-| 37 | [easyexcel](https://github.com/alibaba/easyexcel) | 33746 | 7607 | Java | 488 | 快速、简洁、解决大文件内存溢出的java处理Excel工具 | 2024-10-29T06:07:07Z |
-| 38 | [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) | 33689 | 10662 | Java | 312 | :fire: Android developers should collect the following utils(updating). | 2024-08-15T10:38:10Z |
-| 39 | [nacos](https://github.com/alibaba/nacos) | 32907 | 13274 | Java | 227 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. | 2026-04-24T08:39:57Z |
-| 40 | [WxJava](https://github.com/binarywang/WxJava) | 32745 | 9059 | Java | 11 | 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发 | 2026-04-22T13:30:18Z |
-| 41 | [kafka](https://github.com/apache/kafka) | 32469 | 15145 | Java | 0 | Apache Kafka - A distributed event streaming platform | 2026-04-27T20:33:25Z |
-| 42 | [conductor](https://github.com/conductor-oss/conductor) | 31717 | 870 | Java | 116 | Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents | 2026-04-28T03:40:57Z |
-| 43 | [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) | 30612 | 12254 | Java | 10 | about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。  | 2023-11-18T16:32:16Z |
-| 44 | [hutool](https://github.com/chinabugotech/hutool) | 30302 | 7617 | Java | 3 | 🍬A set of tools that keep Java sweet. | 2026-04-21T08:56:16Z |
-| 45 | [xxl-job](https://github.com/xuxueli/xxl-job) | 30110 | 11463 | Java | 62 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） | 2026-04-05T17:55:44Z |
-| 46 | [SmartTube](https://github.com/yuliskov/SmartTube) | 29797 | 1598 | Java | 691 | Browse media content with your own rules on Android TV | 2026-04-27T23:16:13Z |
-| 47 | [apollo](https://github.com/apolloconfig/apollo) | 29758 | 10184 | Java | 153 | Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. | 2026-04-18T08:17:42Z |
-| 48 | [canal](https://github.com/alibaba/canal) | 29675 | 7650 | Java | 1171 | 阿里巴巴 MySQL binlog 增量订阅&消费组件  | 2026-04-23T06:23:00Z |
-| 49 | [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 29106 | 8512 | Java | 99 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. | 2026-04-20T06:51:44Z |
-| 50 | [SpringAll](https://github.com/wuyouzhuguli/SpringAll) | 28996 | 8140 | Java | 21 | 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc | 2024-05-31T14:56:35Z |
-| 51 | [Telegram](https://github.com/DrKLO/Telegram) | 28977 | 9490 | Java | 0 | Telegram for Android source | 2026-04-06T21:12:45Z |
-| 52 | [druid](https://github.com/alibaba/druid) | 28196 | 8591 | Java | 2302 | 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池 | 2026-04-22T06:07:52Z |
-| 53 | [vhr](https://github.com/lenve/vhr) | 28096 | 10223 | Java | 157 | 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。 | 2024-11-25T00:07:39Z |
-| 54 | [Mindustry](https://github.com/Anuken/Mindustry) | 27397 | 3421 | Java | 1 | The automation tower defense RTS | 2026-04-27T21:59:21Z |
-| 55 | [JCSprout](https://github.com/crossoverJie/JCSprout) | 26951 | 7012 | Java | 30 | 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm  | 2024-05-21T02:46:20Z |
-| 56 | [kestra](https://github.com/kestra-io/kestra) | 26763 | 2560 | Java | 420 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications | 2026-04-27T21:45:02Z |
-| 57 | [miaosha](https://github.com/qiurunze123/miaosha) | 26609 | 6601 | Java | 4 | ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 | 2025-04-18T06:23:43Z |
-| 58 | [openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26172 | 7497 | Java | 5091 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) | 2026-04-28T04:03:14Z |
-| 59 | [flink](https://github.com/apache/flink) | 25967 | 13925 | Java | 0 | Apache Flink | 2026-04-27T22:11:53Z |
-| 60 | [incubator-seata](https://github.com/apache/incubator-seata) | 25967 | 8881 | Java | 793 | :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution. | 2026-04-28T01:19:32Z |
-| 61 | [fastjson](https://github.com/alibaba/fastjson) | 25674 | 6436 | Java | 1935 | FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade. | 2024-07-16T07:35:37Z |
-| 62 | [Chat2DB](https://github.com/CodePhiliaX/Chat2DB) | 25445 | 2792 | Java | 480 | AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. | 2026-04-25T12:15:12Z |
-| 63 | [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) | 25442 | 5403 | Java | 58 | To Be Top Javaer - Java工程师成神之路 | 2024-01-03T13:58:24Z |
+| 18 | [jadx](https://github.com/skylot/jadx) | 48287 | 5502 | Java | 414 | Dex to Java decompiler | 2026-04-27T18:36:06Z |
+| 19 | [JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 46014 | 15953 | Java | 14 | AI低代码平台，支持「低代码 + 零代码」双模式：零代码 5 分钟搭建业务系统，低代码模式一键生成前后端代码。 内置AI 应用，支持AI聊天、知识库、流程编排、MCP与插件，支持各种模型。Skills能力实现：一句话画流程图、设计表单、生成系统。 引领 AI生成→在线配置→代码生成→手工合并的开发模式，解决Java项目80%的重复工作，快速提高效率，又不失灵活性。 | 2026-04-29T03:39:39Z |
+| 20 | [dubbo](https://github.com/apache/dubbo) | 41567 | 26472 | Java | 822 | The java implementation of Apache Dubbo. An RPC and microservice framework. | 2026-04-29T03:19:26Z |
+| 21 | [halo](https://github.com/halo-dev/halo) | 38399 | 10237 | Java | 184 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 | 2026-04-29T03:47:38Z |
+| 22 | [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | 38214 | 9000 | Java | 2067 | A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations. | 2025-06-05T07:06:39Z |
+| 23 | [NewPipe](https://github.com/TeamNewPipe/NewPipe) | 37926 | 3552 | Java | 1335 | A libre lightweight streaming front-end for Android. | 2026-04-27T16:26:22Z |
+| 24 | [tutorials](https://github.com/eugenp/tutorials) | 37356 | 53608 | Java | 17 | Getting Started with Spring Boot 3:  | 2026-04-27T02:49:02Z |
+| 25 | [arthas](https://github.com/alibaba/arthas) | 37285 | 7629 | Java | 380 | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas | 2026-04-24T08:36:26Z |
+| 26 | [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 36842 | 7964 | Java | 11 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ | 2026-04-19T05:43:21Z |
+| 27 | [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 36795 | 7952 | Java | 6 | Learn System Design concepts and prepare for interviews using free resources. | 2026-02-16T18:32:29Z |
+| 28 | [hello-algorithm](https://github.com/geekxh/hello-algorithm) | 36073 | 6435 | Java | 11 | 🌍 针对小白的算法训练 \| 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站 | 2023-06-13T04:13:17Z |
+| 29 | [leetcode](https://github.com/doocs/leetcode) | 35957 | 9413 | Java | 0 | 🔥LeetCode solutions in any programming language \| 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 | 2026-04-28T07:36:22Z |
+| 30 | [lottie-android](https://github.com/airbnb/lottie-android) | 35613 | 5434 | Java | 52 | Render After Effects animations natively on Android and iOS, Web, and React Native | 2026-02-15T22:03:57Z |
+| 31 | [glide](https://github.com/bumptech/glide) | 35026 | 6177 | Java | 585 | An image loading and caching library for Android focused on smooth scrolling | 2026-04-28T12:51:44Z |
+| 32 | [netty](https://github.com/netty/netty) | 34936 | 16248 | Java | 573 | Netty project - an event-driven asynchronous network application framework | 2026-04-28T22:02:20Z |
+| 33 | [keycloak](https://github.com/keycloak/keycloak) | 34127 | 8292 | Java | 2412 | Open Source Identity and Access Management For Modern Applications and Services | 2026-04-29T02:36:10Z |
+| 34 | [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) | 34100 | 10965 | Java | 100 | 🚀一个用来深入学习并实战 Spring Boot 的项目。 | 2024-07-24T02:02:52Z |
+| 35 | [selenium](https://github.com/SeleniumHQ/selenium) | 34070 | 8675 | Java | 112 | A browser automation framework and ecosystem. | 2026-04-29T01:09:46Z |
+| 36 | [zxing](https://github.com/zxing/zxing) | 33919 | 9433 | Java | 4 | ZXing ("Zebra Crossing") barcode scanning library for Java, Android | 2026-04-20T07:05:19Z |
+| 37 | [easyexcel](https://github.com/alibaba/easyexcel) | 33744 | 7605 | Java | 488 | 快速、简洁、解决大文件内存溢出的java处理Excel工具 | 2024-10-29T06:07:07Z |
+| 38 | [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) | 33686 | 10662 | Java | 312 | :fire: Android developers should collect the following utils(updating). | 2024-08-15T10:38:10Z |
+| 39 | [nacos](https://github.com/alibaba/nacos) | 32910 | 13274 | Java | 230 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. | 2026-04-29T01:58:48Z |
+| 40 | [WxJava](https://github.com/binarywang/WxJava) | 32751 | 9060 | Java | 10 | 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发 | 2026-04-22T13:30:18Z |
+| 41 | [kafka](https://github.com/apache/kafka) | 32478 | 15150 | Java | 0 | Apache Kafka - A distributed event streaming platform | 2026-04-29T02:51:58Z |
+| 42 | [conductor](https://github.com/conductor-oss/conductor) | 31721 | 871 | Java | 115 | Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents | 2026-04-29T03:50:47Z |
+| 43 | [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) | 30613 | 12253 | Java | 10 | about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。  | 2023-11-18T16:32:16Z |
+| 44 | [hutool](https://github.com/chinabugotech/hutool) | 30300 | 7616 | Java | 3 | 🍬A set of tools that keep Java sweet. | 2026-04-28T15:15:44Z |
+| 45 | [xxl-job](https://github.com/xuxueli/xxl-job) | 30114 | 11464 | Java | 62 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） | 2026-04-05T17:55:44Z |
+| 46 | [SmartTube](https://github.com/yuliskov/SmartTube) | 29824 | 1601 | Java | 693 | Browse media content with your own rules on Android TV | 2026-04-29T01:38:28Z |
+| 47 | [apollo](https://github.com/apolloconfig/apollo) | 29759 | 10185 | Java | 153 | Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. | 2026-04-18T08:17:42Z |
+| 48 | [canal](https://github.com/alibaba/canal) | 29677 | 7650 | Java | 1171 | 阿里巴巴 MySQL binlog 增量订阅&消费组件  | 2026-04-23T06:23:00Z |
+| 49 | [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 29105 | 8511 | Java | 99 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. | 2026-04-20T06:51:44Z |
+| 50 | [SpringAll](https://github.com/wuyouzhuguli/SpringAll) | 28996 | 8138 | Java | 21 | 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc | 2024-05-31T14:56:35Z |
+| 51 | [Telegram](https://github.com/DrKLO/Telegram) | 28981 | 9493 | Java | 0 | Telegram for Android source | 2026-04-06T21:12:45Z |
+| 52 | [druid](https://github.com/alibaba/druid) | 28197 | 8591 | Java | 2302 | 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池 | 2026-04-22T06:07:52Z |
+| 53 | [vhr](https://github.com/lenve/vhr) | 28095 | 10222 | Java | 157 | 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。 | 2024-11-25T00:07:39Z |
+| 54 | [Mindustry](https://github.com/Anuken/Mindustry) | 27406 | 3418 | Java | 3 | The automation tower defense RTS | 2026-04-27T21:59:21Z |
+| 55 | [JCSprout](https://github.com/crossoverJie/JCSprout) | 26950 | 7012 | Java | 30 | 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm  | 2024-05-21T02:46:20Z |
+| 56 | [kestra](https://github.com/kestra-io/kestra) | 26772 | 2563 | Java | 416 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications | 2026-04-28T21:44:05Z |
+| 57 | [miaosha](https://github.com/qiurunze123/miaosha) | 26609 | 6602 | Java | 4 | ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 | 2025-04-18T06:23:43Z |
+| 58 | [openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26178 | 7497 | Java | 5090 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) | 2026-04-29T03:38:24Z |
+| 59 | [incubator-seata](https://github.com/apache/incubator-seata) | 25969 | 8880 | Java | 791 | :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution. | 2026-04-29T03:11:11Z |
+| 60 | [flink](https://github.com/apache/flink) | 25967 | 13923 | Java | 0 | Apache Flink | 2026-04-28T12:27:12Z |
+| 61 | [fastjson](https://github.com/alibaba/fastjson) | 25674 | 6433 | Java | 1935 | FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade. | 2024-07-16T07:35:37Z |
+| 62 | [Chat2DB](https://github.com/CodePhiliaX/Chat2DB) | 25454 | 2792 | Java | 480 | AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. | 2026-04-25T12:15:12Z |
+| 63 | [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) | 25435 | 5402 | Java | 58 | To Be Top Javaer - Java工程师成神之路 | 2024-01-03T13:58:24Z |
 | 64 | [butterknife](https://github.com/JakeWharton/butterknife) | 25390 | 4560 | Java | 102 | Bind Android views and callbacks to fields and methods. | 2023-09-02T07:41:30Z |
-| 65 | [bazel](https://github.com/bazelbuild/bazel) | 25344 | 4450 | Java | 1578 | a fast, scalable, multi-language and extensible build system | 2026-04-27T20:33:38Z |
-| 66 | [jenkins](https://github.com/jenkinsci/jenkins) | 25239 | 9463 | Java | 3439 | Jenkins automation server | 2026-04-28T01:28:11Z |
-| 67 | [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) | 25166 | 4966 | Java | 337 | 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。 | 2024-12-04T12:28:17Z |
-| 68 | [libgdx](https://github.com/libgdx/libgdx) | 25043 | 6541 | Java | 247 | Desktop/Android/HTML5/iOS Java game development framework | 2026-04-28T03:52:52Z |
-| 69 | [skywalking](https://github.com/apache/skywalking) | 24791 | 6647 | Java | 34 | APM, Application Performance Monitoring System | 2026-04-28T01:45:43Z |
-| 70 | [proxyee-down](https://github.com/proxyee-down-org/proxyee-down) | 24758 | 4365 | Java | 0 | http下载工具，基于http代理，支持多连接分块下载 | 2024-07-16T09:22:28Z |
+| 65 | [bazel](https://github.com/bazelbuild/bazel) | 25348 | 4449 | Java | 1577 | a fast, scalable, multi-language and extensible build system | 2026-04-28T22:21:44Z |
+| 66 | [jenkins](https://github.com/jenkinsci/jenkins) | 25240 | 9465 | Java | 3441 | Jenkins automation server | 2026-04-29T01:43:11Z |
+| 67 | [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) | 25167 | 4965 | Java | 337 | 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。 | 2024-12-04T12:28:17Z |
+| 68 | [libgdx](https://github.com/libgdx/libgdx) | 25045 | 6538 | Java | 247 | Desktop/Android/HTML5/iOS Java game development framework | 2026-04-28T16:38:48Z |
+| 69 | [skywalking](https://github.com/apache/skywalking) | 24792 | 6645 | Java | 34 | APM, Application Performance Monitoring System | 2026-04-29T03:35:16Z |
+| 70 | [proxyee-down](https://github.com/proxyee-down-org/proxyee-down) | 24759 | 4365 | Java | 0 | http下载工具，基于http代理，支持多连接分块下载 | 2024-07-16T09:22:28Z |
 | 71 | [EventBus](https://github.com/greenrobot/EventBus) | 24732 | 4650 | Java | 102 | Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. | 2024-02-21T18:18:34Z |
-| 72 | [Hystrix](https://github.com/Netflix/Hystrix) | 24459 | 4696 | Java | 2 | Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable. | 2025-12-17T03:21:02Z |
-| 73 | [Apktool](https://github.com/iBotPeaches/Apktool) | 24359 | 3919 | Java | 76 | A tool for reverse engineering Android apk files | 2026-04-27T08:40:01Z |
-| 74 | [redisson](https://github.com/redisson/redisson) | 24311 | 5490 | Java | 206 | Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache.. | 2026-04-27T12:10:57Z |
+| 72 | [Hystrix](https://github.com/Netflix/Hystrix) | 24459 | 4695 | Java | 2 | Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable. | 2025-12-17T03:21:02Z |
+| 73 | [Apktool](https://github.com/iBotPeaches/Apktool) | 24367 | 3921 | Java | 76 | A tool for reverse engineering Android apk files | 2026-04-27T08:40:01Z |
+| 74 | [redisson](https://github.com/redisson/redisson) | 24310 | 5488 | Java | 205 | Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache.. | 2026-04-28T12:15:22Z |
 | 75 | [gson](https://github.com/google/gson) | 24213 | 4428 | Java | 233 | A Java serialization/deserialization library to convert Java Objects into JSON and back | 2026-04-23T21:08:20Z |
-| 76 | [dataease](https://github.com/dataease/dataease) | 23857 | 4090 | Java | 42 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. | 2026-04-28T03:14:05Z |
-| 77 | [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 23630 | 5779 | Java | 39 | Learn Low Level Design (LLD) and prepare for interviews using free resources. | 2026-02-26T05:15:01Z |
-| 78 | [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) | 23626 | 803 | Java | 519 | FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. | 2024-07-15T08:04:08Z |
-| 79 | [LSPosed](https://github.com/LSPosed/LSPosed) | 23567 | 3561 | Java | 2 | LSPosed Framework | 2025-03-04T21:28:36Z |
-| 80 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | 23136 | 4248 | Java | 0 | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 | 2026-04-17T09:35:40Z |
-| 81 | [Sentinel](https://github.com/alibaba/Sentinel) | 23100 | 8146 | Java | 703 | A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件) | 2026-03-20T05:47:26Z |
-| 82 | [jdk](https://github.com/openjdk/jdk) | 22822 | 6317 | Java | 0 | JDK main-line development https://openjdk.org/projects/jdk | 2026-04-28T03:35:20Z |
-| 83 | [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22559 | 13274 | Java | 209 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. | 2024-08-18T08:21:57Z |
-| 84 | [rocketmq](https://github.com/apache/rocketmq) | 22424 | 11984 | Java | 162 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. | 2026-04-28T02:35:52Z |
-| 85 | [eladmin](https://github.com/elunez/eladmin) | 21933 | 7365 | Java | 10 | eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由 | 2026-03-13T09:05:23Z |
-| 86 | [ExoPlayer](https://github.com/google/ExoPlayer) | 21913 | 6013 | Java | 622 | This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media | 2025-12-23T16:39:03Z |
-| 87 | [thingsboard](https://github.com/thingsboard/thingsboard) | 21609 | 6250 | Java | 111 | Open-source IoT Platform - Device management, data collection, processing and visualization. | 2026-04-27T17:04:35Z |
-| 88 | [graal](https://github.com/oracle/graal) | 21569 | 1790 | Java | 675 | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 | 2026-04-27T21:06:00Z |
-| 89 | [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) | 21433 | 4322 | Java | 13 | Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subtitles, support for filters, watermarks, and GIF screenshots, pre-roll and mid-roll ads, multiple simultaneous playback, basic seeking/dragging, volume and brightness adjustment, play-while-cache support | 2026-04-23T05:20:56Z |
-| 90 | [HikariCP](https://github.com/brettwooldridge/HikariCP) | 21104 | 3013 | Java | 512 | 光 HikariCP・A solid, high-performance, JDBC connection pool at last. | 2025-11-04T07:50:44Z |
-| 91 | [shardingsphere](https://github.com/apache/shardingsphere) | 20715 | 6906 | Java | 304 | Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. | 2026-04-27T13:24:44Z |
-| 92 | [DoKit](https://github.com/didi/DoKit) | 20419 | 3189 | Java | 242 | 一款面向泛前端产品研发全生命周期的效率平台。 | 2025-08-12T11:43:04Z |
-| 93 | [mybatis-3](https://github.com/mybatis/mybatis-3) | 20416 | 12933 | Java | 131 | MyBatis SQL mapper framework for Java | 2026-04-26T18:46:08Z |
-| 94 | [litemall](https://github.com/linlinjava/litemall) | 20228 | 7317 | Java | 44 | 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端 | 2025-10-05T15:18:32Z |
-| 95 | [SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) | 20090 | 6169 | Java | 29 | 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024 | 2024-04-28T06:20:25Z |
-| 96 | [intellij-community](https://github.com/JetBrains/intellij-community) | 20029 | 5810 | Java | 0 | IntelliJ IDEA & IntelliJ Platform | 2026-04-28T03:47:39Z |
-| 97 | [RxAndroid](https://github.com/ReactiveX/RxAndroid) | 20004 | 2941 | Java | 1 | RxJava bindings for Android | 2026-03-24T13:48:27Z |
-| 98 | [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 19566 | 1775 | Java | 36 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. | 2026-04-27T17:18:38Z |
-| 99 | [ip2region](https://github.com/lionsoul2014/ip2region) | 18975 | 2986 | Java | 2 | Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages | 2026-04-24T08:14:58Z |
+| 76 | [dataease](https://github.com/dataease/dataease) | 23866 | 4089 | Java | 43 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. | 2026-04-29T03:00:41Z |
+| 77 | [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 23647 | 5783 | Java | 39 | Learn Low Level Design (LLD) and prepare for interviews using free resources. | 2026-02-26T05:15:01Z |
+| 78 | [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) | 23629 | 804 | Java | 519 | FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. | 2024-07-15T08:04:08Z |
+| 79 | [LSPosed](https://github.com/LSPosed/LSPosed) | 23577 | 3560 | Java | 2 | LSPosed Framework | 2025-03-04T21:28:36Z |
+| 80 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | 23133 | 4248 | Java | 0 | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 | 2026-04-17T09:35:40Z |
+| 81 | [Sentinel](https://github.com/alibaba/Sentinel) | 23100 | 8149 | Java | 703 | A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件) | 2026-03-20T05:47:26Z |
+| 82 | [jdk](https://github.com/openjdk/jdk) | 22823 | 6317 | Java | 0 | JDK main-line development https://openjdk.org/projects/jdk | 2026-04-29T03:57:25Z |
+| 83 | [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22564 | 13277 | Java | 209 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. | 2024-08-18T08:21:57Z |
+| 84 | [rocketmq](https://github.com/apache/rocketmq) | 22424 | 11982 | Java | 165 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. | 2026-04-28T02:35:52Z |
+| 85 | [eladmin](https://github.com/elunez/eladmin) | 21932 | 7366 | Java | 10 | eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由 | 2026-03-13T09:05:23Z |
+| 86 | [ExoPlayer](https://github.com/google/ExoPlayer) | 21911 | 6013 | Java | 622 | This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media | 2025-12-23T16:39:03Z |
+| 87 | [thingsboard](https://github.com/thingsboard/thingsboard) | 21613 | 6249 | Java | 113 | Open-source IoT Platform - Device management, data collection, processing and visualization. | 2026-04-28T13:56:50Z |
+| 88 | [graal](https://github.com/oracle/graal) | 21569 | 1790 | Java | 675 | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 | 2026-04-29T02:07:16Z |
+| 89 | [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) | 21434 | 4322 | Java | 13 | Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subtitles, support for filters, watermarks, and GIF screenshots, pre-roll and mid-roll ads, multiple simultaneous playback, basic seeking/dragging, volume and brightness adjustment, play-while-cache support | 2026-04-23T05:20:56Z |
+| 90 | [HikariCP](https://github.com/brettwooldridge/HikariCP) | 21105 | 3012 | Java | 512 | 光 HikariCP・A solid, high-performance, JDBC connection pool at last. | 2025-11-04T07:50:44Z |
+| 91 | [shardingsphere](https://github.com/apache/shardingsphere) | 20717 | 6906 | Java | 305 | Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. | 2026-04-28T09:50:03Z |
+| 92 | [DoKit](https://github.com/didi/DoKit) | 20420 | 3189 | Java | 242 | 一款面向泛前端产品研发全生命周期的效率平台。 | 2025-08-12T11:43:04Z |
+| 93 | [mybatis-3](https://github.com/mybatis/mybatis-3) | 20417 | 12930 | Java | 131 | MyBatis SQL mapper framework for Java | 2026-04-28T22:10:23Z |
+| 94 | [litemall](https://github.com/linlinjava/litemall) | 20229 | 7317 | Java | 44 | 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端 | 2025-10-05T15:18:32Z |
+| 95 | [SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) | 20091 | 6170 | Java | 29 | 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024 | 2024-04-28T06:20:25Z |
+| 96 | [intellij-community](https://github.com/JetBrains/intellij-community) | 20034 | 5812 | Java | 0 | IntelliJ IDEA & IntelliJ Platform | 2026-04-29T03:20:00Z |
+| 97 | [RxAndroid](https://github.com/ReactiveX/RxAndroid) | 20004 | 2939 | Java | 1 | RxJava bindings for Android | 2026-03-24T13:48:27Z |
+| 98 | [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 19652 | 1781 | Java | 37 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. | 2026-04-29T03:56:00Z |
+| 99 | [ip2region](https://github.com/lionsoul2014/ip2region) | 18977 | 2986 | Java | 2 | Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages | 2026-04-28T11:00:50Z |
 | 100 | [cat](https://github.com/dianping/cat) | 18959 | 5414 | Java | 194 | CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。 | 2025-01-04T10:23:47Z |
 
